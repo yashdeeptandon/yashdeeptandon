@@ -1,122 +1,140 @@
-<!--
-<h2 align="center">
-  Welcome to Yashdeep Tandon's World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
+<div align="center">
 
-<!--
-<p align="center">
-  <a href="https://github.com/yashdeeptandon"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+```
+██╗   ██╗ █████╗ ███████╗██╗  ██╗██████╗ ███████╗███████╗██████╗
+╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗
+ ╚████╔╝ ███████║███████╗███████║██║  ██║█████╗  █████╗  ██████╔╝
+  ╚██╔╝  ██╔══██║╚════██║██╔══██║██║  ██║██╔══╝  ██╔══╝  ██╔═══╝
+   ██║   ██║  ██║███████║██║  ██║██████╔╝███████╗███████╗██║
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝
+```
 
- -->
+</div>
 
-<a href="https://komarev.com/ghpvc/?username=yashdeeptandon">
-  <img align="right" src="https://komarev.com/ghpvc/?username=yashdeeptandon&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<div align="center">
 
+**`Senior Software Engineer · Noida, India`**
 
-[![wakatime](https://wakatime.com/badge/user/140276ed-4b67-4b25-aac3-5cd06cd4e7ff.svg)](https://wakatime.com/@yashdeeptandon)
+[![Visitors](https://komarev.com/ghpvc/?username=yashdeeptandon&color=0e75b6&style=flat-square&label=PROFILE+VIEWS)](https://github.com/yashdeeptandon)
+[![WakaTime](https://wakatime.com/badge/user/140276ed-4b67-4b25-aac3-5cd06cd4e7ff.svg?style=flat-square)](https://wakatime.com/@yashdeeptandon)
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; 👋🏻Hey There!, I am
-                <b>Yashdeep Tandon</b>
-        </samp>
-</h3>
+</div>
 
+---
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Yashdeep+Tandon">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Noida, India</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+```typescript
+const yashdeep: Engineer = {
+  pronouns   : "he/him",
+  location   : "Noida, India 🇮🇳",
+  role       : "Senior Software Engineer",
+  stack      : ["React", "TypeScript", "Node.js", "Express", "PostgreSQL", "Sequelize"],
+  hoursLogged: "2,000+",
+  obsessions : ["System Design", "AI Agents", "Scalable Architectures"],
+  contact    : "yashdeeptandon.dev@gmail.com",
+  philosophy : "Great code lives at the intersection of rigorous engineering & relentless curiosity"
+};
+```
 
-<p align="center">
-<!--  <a href="https://" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://www.linkedin.com/in/yashdeep-tandon/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yashdeep"/>
- </a>
- <!-- <a href="https://dev.to/" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/YDT007" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/yashdeep_tandon" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Yashdeep" />
- </a> 
- <a href="[https://facebook.com/YashdeepTandon](https://www.facebook.com/yashdeep.tandon.58/)" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Yashdeep"  />
-  </a> 
-</p>
-<br />
+---
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: yashdeeptandon.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/yashdeeptandon/yashdeeptandon/issues)
+<div align="center">
 
-</p>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                         ABOUT ME                                │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-<br/>
-<br/>
-<br/>
+</div>
 
-## Use To Code
+> Senior Software Engineer who transitioned from frontend-focused React/TypeScript work  
+> into building **scalable full-stack architectures** — with 2,000+ hours logged in the editor.
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```
+What I build  →  AI-integrated web experiences that are efficient and elegant
+What I obsess →  System design · Scalable backends · AI agent workflows
+What drives me →  Constant iteration · Deep focus · Incremental growth
+```
 
-<br/>
+> Whether I'm optimizing a backend bottleneck or hitting a new PR in the gym —  
+> the mentality is identical: **crush it, iterate, improve.**
 
-<p align="left">
-  <a href="https://github.com/yashdeeptandon?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+```
+Currently focused on  →  Scalable systems + AI-driven development
+Open to connect if    →  You care about system design, AI, or high-performance engineering
+```
 
-<br/>
-<hr/>
-<br/>
+---
 
-<p align="center">
-  <a href="https://github.com/yashdeeptandon">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdeeptandon&theme=radical&border=7F3FBF&background=0D1117" alt="Yashdeep's GitHub streak"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/yashdeeptandon">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashdeeptandon&theme=radical" alt="Yashdeep Tandon's GitHub Contribution"/>
-  </a>
-</p>
+### ⚡ Tech Arsenal
 
-<a> 
-    <a href="https://github.com/yashdeeptandon"><img alt="Yashdeep Tandon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yashdeeptandon&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866%22%20height=%22192px%22%20width=%2249.5%"/></a>
-  <a href="https://github.com/yashdeeptandon"><img alt="Yashdeep Tandon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yashdeeptandon&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+</div>
 
+**Frontend**
+```
+JavaScript   ████████████████████░   TypeScript  ████████████████████░
+React        ███████████████████░░   Tailwind    ████████████████████░
+HTML5        █████████████████████   CSS3        ████████████████████░
+Redux        ███████████████░░░░░░   shadcn/ui   ███████████████░░░░░░
+```
 
-![Yashdeep Tandon's Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashdeeptandon&custom_title=Yashdeep%20Tandon%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+**Backend & Database**
+```
+Node.js      ████████████████████░   Express     ████████████████████░
+PostgreSQL   ████████████████████░   Sequelize   ███████████████░░░░░░
+```
+
+**DevOps & Tooling**
+```
+Docker       ████████████████████░   GitHub Actions  ████████████████░░░░░
+CI/CD        ███████████████████░░   Git             █████████████████████
+```
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="160" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yashdeeptandon&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+<img height="160" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yashdeeptandon&langs_count=6&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=yashdeeptandon&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashdeeptandon&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution+Graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/yashdeep-tandon/)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=58a6ff)](https://twitter.com/YDT007)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff)](https://instagram.com/yashdeep_tandon)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=58a6ff)](https://www.facebook.com/yashdeep.tandon.58/)
+[![Mail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:yashdeeptandon.dev@gmail.com)
+
+</div>
+
+<div align="center">
+
+---
+
+`> Always learning. Always building.`
+
+</div>
